@@ -49,4 +49,7 @@ pkill skynet
 
 用打包解包工具解包script，修改\pack\logic\login\CServerCtrl.lua里面ID111的IP:119.130.207.253
 
+
+http://ourgames.wxmolegames.com/ 
+
 ---------------------------------------------------------------------------------------------------------
